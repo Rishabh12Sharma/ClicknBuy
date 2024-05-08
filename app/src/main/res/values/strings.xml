@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ClicknBuy</string>
+    <string name="txt_hello">Hello</string>
+    <string name="todo">Product Image</string>
+    <string name="name_of_the_book">Product Name\n</string>
+    <string name="name_of_the_author">Name Of Author</string>
+    <string name="rs_299">Price</string>
+    <string name="_4_5">5.0</string>
+
+    <!-- Checkout activity -->
+    <string name="title_activity_checkout">CheckoutActivity</string>
+    <string name="checkout_item_description">Description</string>
+    <string name="googlepay_status_unavailable" translatable="false">Unfortunately, Google Pay is
+        not available on this phone.
+    </string>
+    <string name="payments_show_name" translatable="false">Successfully received payment data for
+        %s!
+    </string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

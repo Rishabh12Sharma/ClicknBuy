@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279188794430",
+    "project_id": "clicknbuy-b6d23",
+    "storage_bucket": "clicknbuy-b6d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279188794430:android:40ff5d26812524d126b56f",
+        "android_client_info": {
+          "package_name": "com.example.clicknbuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJGpQTXZVyVDnzPFYOZrAcPMXmqDtrLcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
